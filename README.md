@@ -1,3 +1,7 @@
+# Warning
+
+You should disable your antivirus because your antivirus will identify as a virus because it will change your SDIs/IP
+
 # General-Spoofer
 
 A HWID spoofer for Windows. Tested on x64 Windows 10 1507 (10240), 1809 (17763.379), 1903 (18362.30 and 18362.175).
